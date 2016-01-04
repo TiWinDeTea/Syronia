@@ -11,7 +11,7 @@ There is currently no stable version
 <br/>
 + Maxime PINARD - developer (maxime.pin@live.fr)
 + Lucas LAZARE - developer (lazarelucas@yahoo.fr)
-+ Julien BARBIER - developer (julien.barbier@zimbra.fr)
++ Julien BARBIER - developer (julien.barbier@utbm.fr)
 
 ##Download
 <br/>
