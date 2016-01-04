@@ -27,5 +27,5 @@ You can get either this program from the [git hub repo](https://github.com/TiWin
 <br/>
 License : Mozilla Public License, version 2.0
 
-[Read the license file](LICENSE)
+[Read the license file](LICENSE.md)
 <br/>
